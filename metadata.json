@@ -1,0 +1,6 @@
+{
+  "name": "Açaí da Becky's - O Melhor Açaí da Cidade",
+  "description": "Açaiteria artesanal premium com açaí ultra cremoso, taças gourmet, monte seu copo interativo, porções de batata crocante e delivery rápido.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
